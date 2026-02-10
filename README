@@ -1,0 +1,15 @@
+
+
+## How To Run
+
+Make sure Node.js is installed.
+CD to that selected folder.
+Example CD Fizzbuzz folder directory on terminal.
+
+Run the file example:
+node fizzbuzz.js
+
+It run the program.
+
+Thank you! and Have a nice day
+
